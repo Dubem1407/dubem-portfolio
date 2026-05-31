@@ -1,0 +1,31 @@
+export default function Navbar() {
+  return (
+    <header className="fixed top-0 w-full backdrop-blur-md bg-black/30 border-b border-white/10 z-50">
+
+      <nav className="max-w-7xl mx-auto px-6 py-5 flex justify-between items-center">
+
+
+        <div className="flex gap-6 text-sm text-gray-300">
+
+          <a href="#experience" className="hover:text-white">
+            Experience
+          </a>
+
+          <a href="#projects" className="hover:text-white">
+            Projects
+          </a>
+
+          <a href="#skills" className="hover:text-white">
+            Skills
+          </a>
+
+          <a href="#contact" className="hover:text-white">
+            Contact
+          </a>
+
+        </div>
+
+      </nav>
+    </header>
+  )
+}
