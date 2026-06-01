@@ -35,13 +35,6 @@ export default function Contact() {
           </a>
 
           <a 
-            href="https://github.com/Dubem1407"
-            className="hover:text-gray-300 transition"
-          >
-            GitHub - /Dubem1407
-          </a>
-
-          <a 
             href="https://www.linkedin.com/in/chidubem-emeka-nwuba/"
             className="hover:text-gray-300 transition"
             >
