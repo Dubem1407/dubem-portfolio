@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="min-h-screen flex items-center px-6">
+    <section className="min-h-screen flex items-start md:items-center pt-24 md:pt-0 px-6">
       <div className="max-w-7xl mx-auto grid md:grid-cols-[1.1fr_0.9fr] gap-12 items-center w-full">
 
         <div>
@@ -8,11 +8,12 @@ export default function Hero() {
             Computer Engineering · Embedded Systems
           </p>
 
-          <h1 className="text-4xl md:text-6xl font-bold leading-tight font-mono">
+          <h1 className="text-4xl md:text-6xl font-bold leading-tight font-mono text-transparent bg-clip-text bg-linear-to-r from-amber-400 via-orange-500 to-rose-600">
             Hi, I'm Chidubem<br />
             'Dubem' <br />
             Emeka-Nwuba
           </h1>
+
 
           <p className="mt-6 text-gray-400 text-base max-w-xl leading-relaxed">
             I build embedded systems, real-time software,
@@ -20,7 +21,7 @@ export default function Hero() {
             and software into practical applications.
           </p>
 
-          <div className="mt-8 flex gap-4">
+          <div className="mt-8 flex flex-wrap gap-4">
             <a
               href="mailto:dubem1407@gmail.com"
               className="bg-white text-black px-6 py-3 rounded-xl font-medium hover:bg-gray-200 transition"
@@ -51,7 +52,7 @@ export default function Hero() {
 
         <div className="flex justify-center w-full">
           <img 
-            src="src\assets\potrait_2025.jpg"
+            src="src\assets\MyPic.jpg"
             alt="Your Profile" 
             className="w-full max-w-md aspect-square rounded-full object-cover border border-white/10"
           />

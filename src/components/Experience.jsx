@@ -36,46 +36,28 @@ export default function Experience() {
 
           <ul className="mt-6 space-y-4 text-gray-400">
 
-            <li className="flex gap-3">
-              <span className="text-white/40 mt-1">•</span>
-              <span>
-                Supported execution of 50+ live events annually,
-                configuring and troubleshooting complex audio,
-                video, and lighting systems in fast-paced,
-                time-sensitive environments.
-              </span>
-            </li>
+          <li className="flex gap-3">
+            <span className="text-white/40 mt-1">•</span>
+            <span>
+              Supported 50+ live events annually, configuring and troubleshooting audio, video, and lighting systems.
+            </span>
+          </li>
 
-            <li className="flex gap-3">
-              <span className="text-white/40 mt-1">•</span>
-              <span>
-                Collaborated closely with team members during
-                event setup, operation, and teardown, requiring
-                strong communication and coordination to meet
-                strict production timelines.
-              </span>
-            </li>
+          <li className="flex gap-3">
+            <span className="text-white/40 mt-1">•</span>
+            <span>
+              Collaborated with production teams during setup, operation, and teardown in fast-paced environments.
+            </span>
+          </li>
 
-            <li className="flex gap-3">
-              <span className="text-white/40 mt-1">•</span>
-              <span>
-                Reduced setup time by approximately 15–20%
-                by improving equipment organization and
-                standardizing configuration workflows.
-              </span>
-            </li>
+          <li className="flex gap-3">
+            <span className="text-white/40 mt-1">•</span>
+            <span>
+              Diagnosed hardware and signal-flow issues to maintain reliable event operations.
+            </span>
+          </li>
 
-            <li className="flex gap-3">
-              <span className="text-white/40 mt-1">•</span>
-              <span>
-                Diagnosed and resolved signal flow and
-                hardware issues during live productions,
-                minimizing disruptions and maintaining
-                event schedules.
-              </span>
-            </li>
-
-          </ul>
+        </ul>
 
         </div>
 
@@ -96,44 +78,28 @@ export default function Experience() {
 
           <ul className="mt-6 space-y-4 text-gray-400">
 
-            <li className="flex gap-3">
-              <span className="text-white/40 mt-1">•</span>
-              <span>
-                Coordinated logistics for 100+ athletic and
-                recreational events annually, ensuring facility
-                readiness and efficient equipment setup.
-              </span>
-            </li>
+          <li className="flex gap-3">
+            <span className="text-white/40 mt-1">•</span>
+            <span>
+              Coordinated facility and equipment setup for athletic and recreational events.
+            </span>
+          </li>
 
-            <li className="flex gap-3">
-              <span className="text-white/40 mt-1">•</span>
-              <span>
-                Assisted 1,000+ patrons monthly, resolving
-                inquiries and maintaining a safe, organized,
-                and welcoming environment.
-              </span>
-            </li>
+          <li className="flex gap-3">
+            <span className="text-white/40 mt-1">•</span>
+            <span>
+              Assisted patrons and supported daily operations in a high-traffic recreational facility.
+            </span>
+          </li>
 
-            <li className="flex gap-3">
-              <span className="text-white/40 mt-1">•</span>
-              <span>
-                Worked alongside other attendants and staff
-                members to coordinate daily operations,
-                communicate task priorities, and respond
-                effectively during busy event schedules.
-              </span>
-            </li>
+          <li className="flex gap-3">
+            <span className="text-white/40 mt-1">•</span>
+            <span>
+              Performed water quality testing and ensured compliance with safety standards.
+            </span>
+          </li>
 
-            <li className="flex gap-3">
-              <span className="text-white/40 mt-1">•</span>
-              <span>
-                Conducted daily water quality testing and
-                chemical balancing to maintain compliance
-                with health and safety regulations.
-              </span>
-            </li>
-
-          </ul>
+        </ul>
 
         </div>
 

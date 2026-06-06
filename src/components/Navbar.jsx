@@ -7,8 +7,8 @@ export default function Navbar() {
 
         <div className="flex gap-6 text-sm text-gray-300">
 
-          <a href="#experience" className="hover:text-white">
-            Experience
+          <a href="#education" className="hover:text-white">
+            Education
           </a>
 
           <a href="#projects" className="hover:text-white">
@@ -17,6 +17,10 @@ export default function Navbar() {
 
           <a href="#skills" className="hover:text-white">
             Skills
+          </a>
+
+          <a href="#experience" className="hover:text-white">
+            Experience
           </a>
 
           <a href="#contact" className="hover:text-white">
