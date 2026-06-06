@@ -1,3 +1,5 @@
+import myPic from "../assets/MyPic.jpg";
+
 export default function Hero() {
   return (
     <section className="min-h-screen flex items-start md:items-center pt-24 md:pt-0 px-6">
@@ -52,7 +54,7 @@ export default function Hero() {
 
         <div className="flex justify-center w-full">
           <img 
-            src="src\assets\MyPic.jpg"
+            src={myPic}
             alt="Your Profile" 
             className="w-full max-w-md aspect-square rounded-full object-cover border border-white/10"
           />
