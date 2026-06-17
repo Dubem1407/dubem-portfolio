@@ -29,7 +29,7 @@ export default function Education() {
               </p>
 
               <h3 className="text-3xl font-bold">
-                Bachelor of Science in Engineering &mdash; Computer Engineering
+                Bachelor of Science in Engineering - Computer Engineering
               </h3>
 
               <p className="text-gray-500 mt-2">
