@@ -23,7 +23,7 @@ export default function Experience() {
         <div className="border border-white/10 rounded-3xl p-8 bg-zinc-900/50">
 
           <p className="text-gray-500 mb-2">
-            2023 — Present
+            2023 - Present
           </p>
 
           <h3 className="text-3xl font-bold">
@@ -65,7 +65,7 @@ export default function Experience() {
         <div className="border border-white/10 rounded-3xl p-8 bg-zinc-900/50">
 
           <p className="text-gray-500 mb-2">
-            2024 — Present
+            2024 - Present
           </p>
 
           <h3 className="text-3xl font-bold">

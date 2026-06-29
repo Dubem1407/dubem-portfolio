@@ -25,7 +25,7 @@ export default function Education() {
           <div className="flex flex-col md:flex-row md:justify-between md:items-start gap-2">
             <div>
               <p className="text-gray-500 mb-2">
-                2022 — 2026
+                2022 - 2026
               </p>
 
               <h3 className="text-3xl font-bold">
